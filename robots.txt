@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /node_modules/
+
+Sitemap: https://domi197669.github.io/domimoda-blog/sitemap.xml
